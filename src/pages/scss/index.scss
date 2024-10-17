@@ -1,0 +1,16 @@
+// Імпорт нормалізуючого стилю
+@import 'normalize.css';  
+
+// Імпорт основних стилів
+@import 'main.scss'; 
+
+body {
+    background: linear-gradient(to bottom right, #0B3B8E, #A3D2DB, #F0F0F0);  // Градієнтний фон для всіх сторінок
+    font-family: Arial, sans-serif;  // Шрифт для всіх сторінок
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #272221;  // Темний колір заголовка
+}
